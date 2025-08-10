@@ -1,0 +1,6 @@
+image:
+  repository: parkjeongho/profanity-filter-stage
+  pullPolicy: IfNotPresent
+  tag: ""
+env:
+  SPRING_PROFILES_ACTIVE: "stage"
