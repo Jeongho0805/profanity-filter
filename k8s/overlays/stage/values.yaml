@@ -1,6 +1,6 @@
 image:
   repository: parkjeongho/profanity-filter-stage
   pullPolicy: IfNotPresent
-  tag: "stage-20250810071317"
+  tag: "20250810081034"
 env:
   SPRING_PROFILES_ACTIVE: "stage"
