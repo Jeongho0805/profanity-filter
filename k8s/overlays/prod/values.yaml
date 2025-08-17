@@ -1,4 +1,4 @@
 image:
   repository: parkjeongho/profanity-filter-stage
   pullPolicy: IfNotPresent
-  tag: "20250810081034"
+  tag: "20250817040820"
